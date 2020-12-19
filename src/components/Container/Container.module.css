@@ -1,0 +1,10 @@
+.container {
+  max-width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 40px 100px;
+  border-radius: 15px;
+  background-color: var(--bgColor);
+  box-shadow: var(--boxShadow);
+}
